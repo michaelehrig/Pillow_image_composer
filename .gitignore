@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 image_composer.md
+.DS_store
